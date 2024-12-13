@@ -337,6 +337,7 @@ footer .grid nav ul li a:hover:after {
 }
 
 .grid .social-links li a {
+  color: var(--white);
   width: 32px;
   height: 32px;
   border: 1px solid var(--white);
